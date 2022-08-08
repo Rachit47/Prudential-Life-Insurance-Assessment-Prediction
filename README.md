@@ -5,5 +5,3 @@ Only 40% of U.S. households own individual life insurance. Prudential wants to m
 
 By developing a predictive model that accurately classifies risk using a more automated approach, we can greatly impact public perception of the industry.
 The results will help Prudential better understand the predictive power of the data points in the existing assessment, enabling us to significantly streamline the process.
-
-The results will help Prudential better understand the predictive power of the data points in the existing assessment, enabling us to significantly streamline the process.
